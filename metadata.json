@@ -1,0 +1,5 @@
+{
+  "name": "Criador de Páginas para Colorir",
+  "description": "Envie um lote de até 10 imagens e converta-as em belas páginas de livro de colorir com linhas limpas, uma por uma.",
+  "requestFramePermissions": []
+}

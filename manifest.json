@@ -1,0 +1,21 @@
+{
+  "name": "Criador de Páginas para Colorir",
+  "short_name": "Colorir",
+  "description": "Envie um lote de até 10 imagens e converta-as em belas páginas de livro de colorir com linhas limpas, uma por uma.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
